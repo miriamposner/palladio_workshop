@@ -27,7 +27,7 @@ connected across time and space.
 **Your data has many attributes.**
 
 Palladio’s really good at helping you uncover relationships among
-disparate attributes over time and space for example, it can help you
+disparate attributes over time and space. For example, it can help you
 see that a diarist was especially interested in trees as he traveled
 through North Carolina, and especially interested in bats as he traveled
 through Arizona. Palladio allows you to drill down through your data
@@ -45,16 +45,14 @@ tools, like Voyant (http://voyant-tools.org/).
 
 If you just want to make relatively simple charts and graphs, like a bar
 or pie chart, Palladio is too much tool for you! Instead, try using
-Excel’s built-in functions, or check out ManyEyes
-(www-958.ibm.com/manyeyes).
+Excel’s built-in functions.
 
 **You want to present an interactive visualization.**
 
 One big limitation of Palladio is that you can’t embed or share the
 visualizations you create, except in static form. So while Palladio can
 help you explore and understand your data, it’s not great for
-presentation, at least not yet. Instead, try Google Fusion Tables,
-ManyEyes, or Tableau.
+presentation, at least not yet. Instead, try Google Fusion Tables, Plot.ly, or Tableau.
 
 **You want to create complex, fine-tuned maps and networks graphs.**
 
