@@ -399,4 +399,20 @@ Other cool things you can do with Palladio:
 
 -   visualize spans of time with the timespan feature
 
+If you're done and waiting for other people to finish
+------------------------------------------------------
+You might consider these questions:
+
+- When did Cushman take the most photos?
+
+- What did he take photos of at different times?
+
+- What genre types tend to be co-located in photographs?
+
+- Can you identify routes along which Cushman traveled? How might you do that?
+
+- What do you learn by looking at the photographs this way? What don’t you learn?
+
+And, if you'd like, you can visualize this same dataset using Google Fusion Tables. [Here's a tutorial for that.](https://github.com/miriamposner/fusion_tables/blob/master/fusiontables.md)
+
 
