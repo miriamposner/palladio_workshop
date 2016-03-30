@@ -124,8 +124,9 @@ Upload your spreadsheet.
 ![](-imgs/media/ssimage2.png)
 
 Click on the **Load Spreadsheet or CSV** tab and drag your spreadsheet
-onto the tab. (If you have an Excel spreadsheet, save it as a .csv file
-before uploading it.) Then press **Load**.
+onto the tab. Then press **Load**.
+
+**Having trouble loading your data?** Check to make sure that your spreadsheet is saved as a CSV (comma-separated value) file and not an XLS (Excel) file. If you opened your spreadsheet in Excel and saved it, it may be saved as the wrong kind of file. In order to save your data as a CSV file, open the spreadsheet in Excel, then click **Save As** and choose **CSV** as the format. **CSV** is sort of the generic form for your spreadsheet, while **XLS** is Excel-specific. Palladio only likes the former!
 
 Hey, you imported your data!
 ----------------------------
