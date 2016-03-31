@@ -85,7 +85,7 @@ University (http://webapp1.dlib.indiana.edu/cushman/index.jsp). The full
 Cushman Collection contains more than 14,500 Kodachrome photographs,
 taken between 1938 and 1969. Indiana University's archivists were
 forward-thinking enough to place this data on Github
-(https://github.com/iulibdcs/cushman\_photos), which is how we're able
+(https://github.com/iulibdcs/cushman_photos), which is how we're able
 to use it.
 
 In order to make this data a little easier to work with, I've limited
@@ -160,7 +160,7 @@ We have a lot of categories here, and Palladio runs a little faster if
 it has fewer of them to deal with. (Plus it's easier to see what you
 have.) Let's hide some categories we won't be using by clicking on the
 tiny eye to the right of the category name. I hid **Archive Date**,
-**Description from Slide Note**, **Image Note,** and **Slide
+**Description from Slide Mount**, **Image Note,** and **Slide
 Condition**. You can always go back and reveal these if you decide you
 want them after all.
 
@@ -188,7 +188,7 @@ Map your data! (2)
 
 ![](-imgs/media/ssimage7.png)
 
-Let's tell Palladio what we want in our layer. We can name the **Layer**
+Click **New layer** to open the 'Map Layers' window. Let's tell Palladio what we want in our layer. We can name the **Layer**
 whatever we want. I'll call it **Photos**.
 
 Keep the map type as **Points**. If you happened to have data that
