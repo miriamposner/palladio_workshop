@@ -386,7 +386,7 @@ Palladio has some other cool capabilities we haven't discussed here. The
 image above shows one that I like: the ability to use other
 georeferenced maps (in this case an old railroad map from the New York
 Public Library) as basemaps. Here's a tutorial on how to do that:
-http://hdlab.stanford.edu/doc/Tutorial%20for%20creating%20URL%20based%20tilesets\_low.pdf.
+<http://hdlab.stanford.edu/doc/Tutorial%20for%20creating%20URL%20based%20tilesets_low.pdf>.
 
 Other cool things you can do with Palladio:
 
