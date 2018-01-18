@@ -159,7 +159,7 @@ Hide some data
 We have a lot of categories here, and Palladio runs a little faster if
 it has fewer of them to deal with. (Plus it's easier to see what you
 have.) Let's hide some categories we won't be using by clicking on the
-tiny eye to the right of the category name. I hid **Archive Date**,
+tiny eye to the left of the category name. I hid **Archive Date**,
 **Description from Slide Mount**, **Image Note,** and **Slide
 Condition**. You can always go back and reveal these if you decide you
 want them after all.
