@@ -1,6 +1,6 @@
 **Getting Started with Palladio**
 
-Palladio (palladio.designhumanities.org), a product of Stanford’s
+[Palladio](palladio.designhumanities.org), a product of Stanford’s
 Humanities + Design Lab, is a web-based visualization tool for complex
 humanities data. Think of Palladio as a sort of Swiss Army knife for
 humanities data. It’s one package that includes a number of tools, each
@@ -38,33 +38,32 @@ using faceted browsing.
 
 If you’re trying to analyze a long text — like a poem or a novel —
 Palladio won’t help you much. You’ll want to look for text analysis
-tools, like Voyant (http://voyant-tools.org/).
+tools, like [Voyant](http://voyant-tools.org/).
 
 **You just want to count things.**
 
 If you just want to make relatively simple charts and graphs, like a bar
 or pie chart, Palladio is too much tool for you! Instead, try using
-Excel’s built-in functions, or check out ManyEyes
-(www-958.ibm.com/manyeyes).
+Excel’s built-in functions, or check out [DataWrapper](https://www.datawrapper.de/).
 
 **You want to present an interactive visualization.**
 
 One big limitation of Palladio is that you can’t embed or share the
 visualizations you create, except in static form. So while Palladio can
 help you explore and understand your data, it’s not great for
-presentation, at least not yet. Instead, try Google Fusion Tables,
-ManyEyes, or Tableau.
+presentation, at least not yet. Instead, try [Flourish](https://flourish.studio/),
+[DataWrapper](https://www.datawrapper.de/), or [Tableau](https://public.tableau.com/en-us/s/).
 
 **You want to create complex, fine-tuned maps and networks graphs.**
 
 While Palladio can produce maps and network graphs, you can’t customize
 them to any great extent, and you can’t perform sophisticated network
 analysis, such as calculating centrality. Instead, you might consider
-more sophisticated mapping tools, such as CartoDB or ArcGIS, and more
+more sophisticated mapping tools, such as Carto or ArcGIS, and more
 sophisticated network analysis tools, such as Gephi and Cytoscape.
 
 **You hate bugs.**
 
-Palladio is still a baby, and you will almost certainly encounter some
-bugs. If you prefer not to use unstable software, you might investigate
-Google Fusion Tables or Tableau.
+Palladio is still pretty young, and you may encounter some
+bugs. If you prefer not to deal with this, you might investigate
+Flourish or Tableau.
